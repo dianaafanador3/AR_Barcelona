@@ -1,0 +1,231 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Material17
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Google_Earth_Snapshot1
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.549020 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Google_Earth_Snapshot1.jpg
+
+newmtl Google_Earth_Snapshot1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.549020 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Google_Earth_Snapshot1_1_.jpg
+
+newmtl Google_Earth_Snapshot1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.549020 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Google_Earth_Snapshot1_2_.jpg
+
+newmtl Google_Earth_Snapshot1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.549020 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Google_Earth_Snapshot1_3_.jpg
+
+newmtl Google_Earth_Snapshot1_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.549020 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Google_Earth_Snapshot1_4_.jpg
+
+newmtl Google_Earth_Snapshot1_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.549020 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Google_Earth_Snapshot1_5_.jpg
+
+newmtl Material5
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.525490 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material5.jpg
+
+newmtl Google_Earth_Snapshot1_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.549020 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Google_Earth_Snapshot1_6_.jpg
+
+newmtl _Red_Glass_16
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.396078 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/_Red_Glass_16.jpg
+
+newmtl Google_Earth_Snapshot1_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.549020 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Google_Earth_Snapshot1_7_.jpg
+
+newmtl Google_Earth_Snapshot1_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.549020 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Google_Earth_Snapshot1_8_.jpg
+
+newmtl Google_Earth_Snapshot1_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.549020 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Google_Earth_Snapshot1_9_.jpg
+
+newmtl Google_Earth_Snapshot1_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.549020 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Google_Earth_Snapshot1_10_.jpg
+
+newmtl Material22
+Ka 0.000000 0.000000 0.000000
+Kd 0.219608 0.266667 0.329412
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material22.jpg
+
+newmtl Material3
+Ka 0.000000 0.000000 0.000000
+Kd 0.109804 0.121569 0.141176
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material3.jpg
+
+newmtl Material17_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_1_.jpg
+
+newmtl Material17_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_2_.jpg
+
+newmtl Material17_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_3_.jpg
+
+newmtl Material17_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_4_.jpg
+
+newmtl Material17_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_5_.jpg
+
+newmtl Material17_6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_6_.jpg
+
+newmtl Material17_7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_7_.jpg
+
+newmtl Material17_8_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_8_.jpg
+
+newmtl Material17_9_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_9_.jpg
+
+newmtl Material17_10_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_10_.jpg
+
+newmtl Material17_11_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_11_.jpg
+
+newmtl Material17_12_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_12_.jpg
+
+newmtl Material17_13_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_13_.jpg
+
+newmtl Material17_14_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_14_.jpg
+
+newmtl Material17_15_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_15_.jpg
+
+newmtl Material17_16_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_16_.jpg
+
+newmtl Material17_17_
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.619608 0.647059
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/Material17_17_.jpg
+
+newmtl _Grid_
+Ka 0.000000 0.000000 0.000000
+Kd 0.768627 0.768627 0.768627
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/_Grid_.jpg
+
+newmtl _Red_Glass_
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+d 0.500000
+
+newmtl _Red_Glass_7
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.223529 0.180392
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/_Red_Glass_7.jpg
+
+newmtl _Red_Glass_15
+Ka 0.000000 0.000000 0.000000
+Kd 0.647059 0.603922 0.552941
+Ks 0.330000 0.330000 0.330000
+map_Kd agbar/_Red_Glass_15.jpg
+

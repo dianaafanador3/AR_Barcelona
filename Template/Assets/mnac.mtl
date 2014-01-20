@@ -1,0 +1,388 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl planta_orto
+Ka 0.000000 0.000000 0.000000
+Kd 0.764706 0.776471 0.760784
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/planta_orto.jpg
+
+newmtl Color_C15
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.537255 0.478431
+Ks 0.330000 0.330000 0.330000
+
+newmtl boveda2
+Ka 0.000000 0.000000 0.000000
+Kd 0.556863 0.482353 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/boveda2.jpg
+
+newmtl fachada_principal_arcos_balcon
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.556863 0.592157
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/fachada_principal_arcos_balcon.jpg
+
+newmtl cupula_entrada_tejado
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.674510 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/cupula_entrada_tejado.jpg
+
+newmtl cupula_entrada_tejado1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.674510 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/cupula_entrada_tejado1_.jpg
+
+newmtl fachada_puertas
+Ka 0.000000 0.000000 0.000000
+Kd 0.509804 0.466667 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/fachada_puertas.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl MNAC_01_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.678431 0.666667 0.709804
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/MNAC_01_2_.png
+
+newmtl bola_torre
+Ka 0.000000 0.000000 0.000000
+Kd 0.870588 0.831373 0.772549
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/bola_torre.png
+
+newmtl MNAC_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.615686 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/MNAC_01.jpg
+
+newmtl MNAC_02
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.588235 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/MNAC_02.jpg
+
+newmtl Color_C20
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.282353 0.250980
+Ks 0.330000 0.330000 0.330000
+
+newmtl MNAC_01_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.615686 0.584314
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/MNAC_01_1_.jpg
+
+newmtl _3
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.247059 0.247059
+Ks 0.330000 0.330000 0.330000
+
+newmtl angel_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.952941 0.941176 0.925490
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/angel_01.jpg
+
+newmtl angel_02
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.941176 0.921569
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/angel_02.jpg
+
+newmtl angel_02_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.949020 0.941176 0.921569
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/angel_02_1_.jpg
+
+newmtl _Color_C20_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.356863 0.317647
+Ks 0.330000 0.330000 0.330000
+
+newmtl angel_01_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.952941 0.941176 0.925490
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/angel_01_1_.jpg
+
+newmtl angel_01_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.952941 0.941176 0.925490
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/angel_01_2_.jpg
+
+newmtl fachada_principal_top_tramado
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.694118 0.686275
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/fachada_principal_top_tramado.jpg
+
+newmtl boveda3
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.505882 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/boveda3.jpg
+
+newmtl boveda3_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.572549 0.505882 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/boveda3_1_.jpg
+
+newmtl palau_text3_side
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.643137 0.560784
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/palau_text3_side.jpg
+
+newmtl liso_pat
+Ka 0.000000 0.000000 0.000000
+Kd 0.870588 0.788235 0.670588
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/liso_pat.jpg
+
+newmtl pico_torre
+Ka 0.000000 0.000000 0.000000
+Kd 0.854902 0.823529 0.792157
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/pico_torre.png
+
+newmtl torre_adorno_front
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.564706 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/torre_adorno_front.jpg
+
+newmtl torre_adorno
+Ka 0.000000 0.000000 0.000000
+Kd 0.780392 0.729412 0.654902
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/torre_adorno.jpg
+
+newmtl torre_adorno_sup_front
+Ka 0.000000 0.000000 0.000000
+Kd 0.725490 0.647059 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/torre_adorno_sup_front.jpg
+
+newmtl torre_adorno_front1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.564706 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/torre_adorno_front1_.jpg
+
+newmtl torre_adorno_front2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.639216 0.564706 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/torre_adorno_front2_.jpg
+
+newmtl _0002_MediumVioletRed_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.776471 0.658824 0.474510
+Ks 0.330000 0.330000 0.330000
+
+newmtl torre_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.505882 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/torre_1.jpg
+
+newmtl torre_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.580392 0.525490 0.439216
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/torre_2.jpg
+
+newmtl torre_1_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.505882 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/torre_1_1_.jpg
+
+newmtl torre_1_2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.505882 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/torre_1_2_.jpg
+
+newmtl torre_1_3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.505882 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/torre_1_3_.jpg
+
+newmtl torre_1_4_
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.505882 0.443137
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/torre_1_4_.jpg
+
+newmtl qtorre
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.596078 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/qtorre.jpg
+
+newmtl qtorre_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.419608 0.333333
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/qtorre_1.jpg
+
+newmtl M_7672595320_6618ab5933_k_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.615686 0.643137
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/M_7672595320_6618ab5933_k_1.jpg
+
+newmtl qtorre_top1
+Ka 0.000000 0.000000 0.000000
+Kd 0.835294 0.800000 0.764706
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/qtorre_top1.png
+
+newmtl qtorre_top_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.709804 0.654902
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/qtorre_top_1.png
+
+newmtl qtorre_top_angulo
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.407843 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/qtorre_top_angulo.jpg
+
+newmtl qtorre_top_perfil
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.627451 0.529412
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/qtorre_top_perfil.jpg
+
+newmtl qtorre_top
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.474510 0.396078
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/qtorre_top.jpg
+
+newmtl qtorre_top_perfil1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.627451 0.529412
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/qtorre_top_perfil1_.jpg
+
+newmtl qtorre_top_perfil2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.709804 0.627451 0.529412
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/qtorre_top_perfil2_.jpg
+
+newmtl pico_cupulas
+Ka 0.000000 0.000000 0.000000
+Kd 0.913725 0.898039 0.894118
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/pico_cupulas.png
+
+newmtl frente_top_sides
+Ka 0.000000 0.000000 0.000000
+Kd 0.615686 0.592157 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/frente_top_sides.jpg
+
+newmtl palau_text1_temp
+Ka 0.000000 0.000000 0.000000
+Kd 0.733333 0.725490 0.698039
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/palau_text1_temp.jpg
+
+newmtl palau_text1_main_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.596078 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/palau_text1_main_1.jpg
+
+newmtl palau_text1_main
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.615686 0.560784
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/palau_text1_main.jpg
+
+newmtl palau_corner
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.549020 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/palau_corner.jpg
+
+newmtl palau_lateral__patio
+Ka 0.000000 0.000000 0.000000
+Kd 0.780392 0.764706 0.733333
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/palau_lateral__patio.jpg
+
+newmtl palau_text1_temp1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.733333 0.725490 0.698039
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/palau_text1_temp1_.jpg
+
+newmtl palau_pat_inf
+Ka 0.000000 0.000000 0.000000
+Kd 0.666667 0.647059 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/palau_pat_inf.jpg
+
+newmtl palau_lateral
+Ka 0.000000 0.000000 0.000000
+Kd 0.478431 0.458824 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/palau_lateral.jpg
+
+newmtl palau_corner1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.584314 0.549020 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/palau_corner1_.jpg
+
+newmtl palau_lateral_top
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.564706 0.505882
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/palau_lateral_top.jpg
+
+newmtl boveda
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.564706 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/boveda.jpg
+
+newmtl tejado1
+Ka 0.000000 0.000000 0.000000
+Kd 0.443137 0.486275 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/tejado1.jpg
+
+newmtl MNAC_04
+Ka 0.000000 0.000000 0.000000
+Kd 0.600000 0.576471 0.529412
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/MNAC_04.jpg
+
+newmtl MNAC_03
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.439216 0.376471
+Ks 0.330000 0.330000 0.330000
+map_Kd mnac/MNAC_03.jpg
+
